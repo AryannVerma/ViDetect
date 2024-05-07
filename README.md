@@ -22,6 +22,10 @@ A sizable object detection, segmentation, key-point detection, and captioning da
 ### Results - 
 The performance metrics for this project  includes accuracy, precision, recall, and F1-score. These metrics evaluate the model's ability to correctly identify and classify objects in the traffic video with an averaged accuracy rate of 97%, it can also used to identify traffic violations in videos. High accuracy indicates overall correctness, precision measures the proportion of true positives, recall captures the proportion of actual positives identified, and F1-score balances precision and recall for a comprehensive assessment of the model's performance.
 
+![Screenshot 2024-05-07 083825](https://github.com/AryannVerma/ViDetect/assets/80838830/62ddbf61-94c9-4017-bd0d-8c7b4de87ef8)
+
+https://github.com/AryannVerma/ViDetect/assets/80838830/13d267b9-8064-482f-99bb-a613ab7d8b38
+
 
 
 
